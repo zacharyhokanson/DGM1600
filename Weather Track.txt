@@ -1,3 +1,9 @@
 Weather Track
 
 Sunny
+
+Rainy
+
+Cloudy 
+
+Thunder
