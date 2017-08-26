@@ -15,3 +15,5 @@ Weather Track August
 8/21/2017 Sunny
 
 8/22/2017 Cloudy
+
+8/23/2017 Sunny
