@@ -9,3 +9,5 @@ Weather Track August
 8/18/2017 Thunder
 
 8/19/2017 Rainy
+
+8/20/2017 Sunny
